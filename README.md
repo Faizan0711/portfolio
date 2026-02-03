@@ -1,67 +1,99 @@
-📊 Data Analytics Portfolio
+📊 Data Analytics & Data Science Portfolio
+
 👋 About Me
 
-I am a Data Analyst skilled in SQL, Python, and Power BI, with experience transforming raw data into actionable insights and business-ready dashboards. I have a strong continuous learning mindset and a growing interest in AI and data science, and I am actively building end-to-end analytics projects aligned with real-world business use cases.
+I am a Data Analyst with hands-on experience in analytics and applied data science, skilled in SQL, Python, Power BI, and machine learning fundamentals. I specialize in transforming raw, complex data into actionable insights, decision-ready dashboards, and interpretable predictive models.
+
+My work emphasizes real-world business and healthcare use cases, strong problem framing, and thoughtful metric selection. I have a continuous learning mindset and am actively expanding into machine learning, cost-sensitive modeling, and AI-driven analytics, while maintaining a strong analytics foundation.
 
 🧠 Core Skills
 
-Data Analysis: SQL (joins, CTEs, window functions), Python (Pandas, NumPy)
+Data Analytics
 
-Visualization: Power BI, Tableau, Excel
+SQL (joins, CTEs, window functions)
 
-Data Handling: Data cleaning, validation, KPI definition
+Python (Pandas, NumPy)
 
-Analytics Concepts: Business metrics, attribution, segmentation
+Data cleaning, validation, KPI definition
 
-Mindset: Problem-solving, communication, continuous learning, AI-focused growth
+Business metrics and stakeholder-driven analysis
 
-🎓 Education
-**Master of Engineering (Electrical and Computer Engineering)**  
-University of Windsor, Canada  
+Data Science & Machine Learning
 
-Relevant focus: data analytics, computer networks, system-level problem solving, and applied programming. Strong analytical foundation supporting real-world data projects.
-Why this works
+Logistic Regression, classification modeling
 
-📁 Projects
+Imbalanced data handling
 
-Each project follows an end-to-end analytics workflow: data preparation → analysis → insights → visualization.
+Threshold tuning & cost-sensitive learning
 
-Project	Skills Used	Description
-Retail Sales Performance Dashboard	SQL, Power BI	KPI tracking, trend analysis, and executive dashboard
-Marketing Attribution Analysis	SQL, Python	Channel performance, ROI/ROAS analysis
-Customer Segmentation (RFM)	Python	Customer behavior analysis and segmentation
-Data Quality & Cleaning Report	Python	Missing data, duplicates, and anomaly detection
-E-commerce SQL Case Study	SQL	Advanced querying using joins, CTEs, and window functions
+Model evaluation (Recall, Precision, PR-AUC)
 
-(Projects are actively being built and documented.)
+Feature engineering & data leakage prevention
 
-🛠 Tools & Technologies
+Visualization & Reporting
+
+Power BI (interactive dashboards)
+
+Tableau
+
+Excel (advanced analysis)
+
+Tools & Platforms
+
+Python (scikit-learn, matplotlib)
 
 SQL (PostgreSQL / MySQL / SQLite)
 
-Python (Pandas, NumPy, Matplotlib)
-
-Power BI
-
-Excel
-
 Git & GitHub
+
+Professional Mindset
+
+Problem-solving & analytical thinking
+
+Clear communication of insights
+
+Strong interest in AI & applied ML
+
+Continuous learning & improvement
+
+🎓 Education
+
+Master of Engineering – Electrical and Computer Engineering
+University of Windsor, Canada
+
+Relevant focus areas include data analytics, system-level problem solving, applied programming, and computer networks—providing a strong analytical foundation for real-world analytics and machine learning projects.
+
+📁 Projects
+
+Each project follows an end-to-end workflow:
+problem framing → data preparation → analysis/modeling → insights → interpretation
+
+Project	Skills Used	Description
+COVID-19 Screening Model	Python, Logistic Regression	Cost-sensitive classification focused on reducing false negatives
+Retail Sales Performance Dashboard	SQL, Power BI	KPI tracking, trend analysis, executive reporting
+Marketing Attribution Analysis	SQL, Python	Channel performance, ROI / ROAS analysis
+Customer Segmentation (RFM)	Python	Behavioral segmentation and insights
+Data Quality & Cleaning Report	Python	Missing data, duplicates, anomaly detection
+E-commerce SQL Case Study	SQL	Advanced querying with joins, CTEs, and window functions
+
+(Projects are actively maintained and expanded.)
 
 📌 How to Use This Repository
 
-Each project has its own folder with:
+Each project folder includes:
 
-A clear problem statement
+Clear problem statement
 
-Dataset (or data source description)
+Dataset or data source description
 
 SQL/Python scripts or notebooks
 
-Dashboard screenshots or reports
+Visualizations or dashboards
 
 Business insights and conclusions
 
 📬 Contact
 
-LinkedIn: www.linkedin.com/in/mohammed-ali-faizan-syed
+LinkedIn: https://www.linkedin.com/in/mohammed-ali-faizan-syed
+
 Email: syedfaizan07@outlook.com
