@@ -1,0 +1,29 @@
+# Data Dictionary
+
+## Target Variable
+- **SARS-Cov-2 exam result**
+  - 1 = Positive
+  - 0 = Negative
+
+## Numeric Features
+- Patient age quantile (ordinal age group)
+
+## Categorical Features
+Binary pathogen test results:
+- Influenza A / B
+- RSV
+- Rhinovirus / Enterovirus
+- Other coronaviruses
+- Parainfluenza viruses
+- Adenovirus
+- Metapneumovirus
+
+### Encoding
+- `detected`
+- `not_detected`
+- `not_tested` (test not ordered)
+
+## Excluded Features
+- ICU admission
+- Ward admission
+- Features with >85% missing values
